@@ -81,7 +81,4 @@ env.bak/
 *.swp
 *.swo
 
-# Images and cache files
-*.png
-*.jpg
-*.jpeg
+
