@@ -1,0 +1,87 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# If you are using virtualenvwrapper
+WORKON_HOME/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+
+# VS Code extension files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Python environment files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Environment directories
+venv/
+ENV/
+env/
+venv.bak/
+env.bak/
+
+# Local development files
+*.swp
+*.swo
+
+# Images and cache files
+*.png
+*.jpg
+*.jpeg
